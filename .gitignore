@@ -1,4 +1,4 @@
-# Python virtual environment
+# Virtual environment
 .venv/
 
 # Dataset
@@ -6,6 +6,9 @@ dataset/
 
 # BlazeFace model
 blaze_face_short_range.tflite
+
+# Trained model
+best_model.pt
 
 # Python cache
 __pycache__/
