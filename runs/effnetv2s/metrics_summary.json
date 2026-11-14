@@ -1,0 +1,25 @@
+{
+  "best_val_macro_f1": 0.735925925925926,
+  "class_names": [
+    "Vitamin A deficiency",
+    "Vitamin B-12 deficiency",
+    "Vitamin D deficiency"
+  ],
+  "confusion_matrix": [
+    [
+      38,
+      2,
+      6
+    ],
+    [
+      4,
+      20,
+      12
+    ],
+    [
+      8,
+      11,
+      34
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+                         precision    recall  f1-score   support
+
+   Vitamin A deficiency     0.7600    0.8261    0.7917        46
+Vitamin B-12 deficiency     0.6061    0.5556    0.5797        36
+   Vitamin D deficiency     0.6538    0.6415    0.6476        53
+
+               accuracy                         0.6815       135
+              macro avg     0.6733    0.6744    0.6730       135
+           weighted avg     0.6773    0.6815    0.6786       135
